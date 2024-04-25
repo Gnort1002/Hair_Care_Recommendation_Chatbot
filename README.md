@@ -14,6 +14,7 @@ Download weight for SwinFace here
 [Link](https://drive.google.com/file/d/1-iTuA7gaepNT94gADqwotfJNP35F6Lpp/view?usp=sharing)
 
 Download weight for alignment here
+[Link](https://drive.google.com/file/d/1IkBHHnu1mRPPofRNLfYmkyZVYJ6ieaOG/view?usp=sharing)
 
 ## Format weight use in project
 ```
