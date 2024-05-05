@@ -148,14 +148,11 @@ compare/*
 models/**/*.png
 models/**/*.jpg
 test_coef/*.png
-**/*.npy
 **/*.npz
 **/*.pth
 **/*.mp4
-**/*.ipynb
 **/*.dat
 **/*.bz2
-!/models/sean_codes/styles_test/**/*.npy
 /pretrained_models/*
 /logs/
 /input/
